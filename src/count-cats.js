@@ -5,5 +5,5 @@ module.exports = function countCats(array) {
       if (e === '^^') i++;
     })
   })
-  return i;
+  return i;  
 };
